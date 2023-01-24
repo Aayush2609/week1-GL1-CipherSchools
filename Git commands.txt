@@ -1,0 +1,28 @@
+----------------------------------------------
+Processes to be done after installing gitbash 
+----------------------------------------------
+1. Open gitbash
+2. git config --global user.name "Aayush2609"
+3. git config --global user.email "aadeep2609@gmail.com"
+
+
+----------------------------------------------
+Git commands to be run in every folder once after its creation
+----------------------------------------------
+1. git init
+2. git remote add origin https://github.com/Aayush2609/GitClass.git
+
+
+----------------------------------------------
+Git commands that you have to repeat every time you make changes in the code/file/folder locally on your system
+----------------------------------------------
+1. git add
+2. git commit -m "message"
+3. git push -u origin master
+
+
+----------------------------------------------
+git commands to help you navigate to different versions of the git
+----------------------------------------------
+1. git log
+2. git checkout
