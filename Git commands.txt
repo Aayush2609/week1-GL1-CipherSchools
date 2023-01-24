@@ -10,7 +10,8 @@ Processes to be done after installing gitbash
 Git commands to be run in every folder once after its creation
 ----------------------------------------------
 1. git init
-2. git remote add origin https://github.com/Aayush2609/GitClass.git
+2. git remote add origin https://github.com/Aayush2609/week1-GL1-CipherSchools
+.git
 
 
 ----------------------------------------------
