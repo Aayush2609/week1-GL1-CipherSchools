@@ -19,7 +19,7 @@ func main() {
 	// fmt.Println(i)
 
 	name := new(string)
-	name = "abc"
+	// name = "abc"
 	fmt.Println(name)
 }
 
